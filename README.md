@@ -12,7 +12,7 @@ It helps companies answer a very real question:
 
 > How much fuel and carbon does each shipment produce, and how can we track that in a clean, scalable, analytics-friendly way?
 
-![GreenChain analytics workflow](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Carbon footprint and sustainability workflow](https://media0.giphy.com/media/VllZnZs6vnZLQUV0at/giphy.gif)
 
 ---
 
@@ -176,3 +176,9 @@ It is intentionally simple enough to understand quickly, while still showing the
 ## License
 
 This project is intended as an open, extensible starter project for logistics analytics and carbon footprint modeling.
+
+
+
+
+
+
